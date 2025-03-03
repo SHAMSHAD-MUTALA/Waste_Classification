@@ -18,7 +18,7 @@ In today’s world, improper waste management leads to **environmental pollution
 
 ---
 
-Would you like me to add **animated icons, GitHub badges, or a feature list** for a more visually appealing README? 😊🚀# ♻️ Waste Classification Using CNN  
+ 
 
 A deep learning-based waste classification system using CNN (Convolutional Neural Networks) to categorize waste into **organic and recyclable** for improved waste management and recycling efficiency.  
 
